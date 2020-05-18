@@ -1,0 +1,3 @@
+﻿  Rekurze.cpp
+A:\UPG\Rekurze\Rekurze\Rekurze.cpp(7,9): warning C4101: y: neodkazovaná lokální proměnná
+  Rekurze.vcxproj -> A:\UPG\Rekurze\Debug\Rekurze.exe
